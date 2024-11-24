@@ -1,5 +1,5 @@
 <template src="" >
-  <header id="header" class="bg-logo text-white">
+  <header id="header" class="absolute w-full header text-white">
     <div class="container flex justify-between pt-70px pb-100px items-center">
       <div>
         <LayoutUiLogo />
@@ -28,5 +28,5 @@
 <script setup>
 </script>
 
-<style lang="scss">
+<style scoped>
 </style>

@@ -1,5 +1,8 @@
 <template>
-  <div class="">img fred</div>
+  <div id="main">
+    <PagesHomeS-1 />
+    <PagesHomeS-2 />
+  </div>
 </template>
 
 <script setup>

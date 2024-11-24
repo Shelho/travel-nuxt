@@ -1,6 +1,6 @@
 <template>
   <button
-    class="btn bg-regular-1 py-18px rounded-10px font-circular text-17px px-27px"
+    class="btn bg-regular-1 rounded-10px font-circular h-58px text-17px px-27px"
   >
     {{ text }}
   </button>

@@ -13,6 +13,7 @@ module.exports = {
       },
       fontFamily: {
         'circular': ['Circular Std', 'sans-serif'],
+        'poppins': ['Poppins', 'sans-serif']
       },
       colors: {
         transparent: 'transparent',
